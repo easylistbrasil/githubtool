@@ -6,3 +6,10 @@
 
 [Github Tool](https://github.com/easylistbrasil/githubtool/archive/master.zip)
 
+----------------------------------------------
+### Tutorial
+
+1) Instalar Git no windows
+2) Instalar Pynthon
+3) Abrir github.bat e configurar
+
