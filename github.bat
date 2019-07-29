@@ -117,6 +117,7 @@ if %opcao% equ 3 goto menu
 :FOP
 cd output
 FOP.py
+color 20
 pause
 goto temp1
 
@@ -129,6 +130,7 @@ cd output
 git add --all .
 git commit -m "%message%"
 git push origin master
+color 20
 pause
 goto temp1
 
